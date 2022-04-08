@@ -3,4 +3,4 @@
 [Voltar](https://github.com/filipecancio/melhores-marcas)
 
 ## Como desenvolver o app
-- Criando Uma aplicação Inicial https://github.com/filipecancio/melhores-marcas/pull/13
+- Aula 01: Novo app em Jetpack Compose https://github.com/filipecancio/melhores-marcas/pull/13
