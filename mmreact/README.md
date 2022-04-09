@@ -1,4 +1,5 @@
-# [![GitHub](https://user-images.githubusercontent.com/13178261/162545383-b9ef42d9-ceef-42ad-a5a0-3ff39da83a46.png)](https://github.com/filipecancio/melhores-marcas)
+![GitHub](https://user-images.githubusercontent.com/13178261/162581603-92d40946-fe7f-4c49-a8c6-179842a57b46.png)
+# 
 
 [Voltar](https://github.com/filipecancio/melhores-marcas)
 
