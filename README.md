@@ -9,7 +9,7 @@ Projeto da matéria de desenvolvimento mobile, do curso de Sistemas de informaç
 
 - [Projeto em Jetpack Compose](./mmcompose/README.md)
 - Projeto em React Native
-- Projeto em flutter
+- [Projeto em flutter](./mm_flutter/README.md)
 
 ## Links importantes
 [![wireframe](https://user-images.githubusercontent.com/13178261/161410522-8a45b117-938e-44d2-aa9f-fe3cb7425abc.png)](https://www.figma.com/community/file/1092175666127784311)
