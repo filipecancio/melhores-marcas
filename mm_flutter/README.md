@@ -1,16 +1,6 @@
-# mm_flutter
+# [![GitHub](https://user-images.githubusercontent.com/13178261/162548546-367db615-be34-4f85-8b0f-a40fce8bf74e.png)](https://github.com/filipecancio/melhores-marcas)
 
-Um catlogo de compras
+[Voltar](https://github.com/filipecancio/melhores-marcas)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Como desenvolver o app
+- Aula 01: Novo app em Flutter https://github.com/filipecancio/melhores-marcas/pull/14
