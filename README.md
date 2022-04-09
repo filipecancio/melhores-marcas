@@ -8,7 +8,7 @@ Projeto da matéria de desenvolvimento mobile, do curso de Sistemas de informaç
 ## Projetos
 
 - [Projeto em Jetpack Compose](./mmcompose/README.md)
-- Projeto em React Native
+- [Projeto em React Native](./mmreact/README.md)
 - [Projeto em flutter](./mm_flutter/README.md)
 
 ## Links importantes
