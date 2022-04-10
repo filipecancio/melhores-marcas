@@ -1,12 +1,9 @@
 name: Dart
 
 on:
-  push:
-    branches: 
-    - 'feat/*'
   pull_request:
     branches:
-    - 'feat/*'
+      - 'feat/**'
 
 jobs:
   build:
