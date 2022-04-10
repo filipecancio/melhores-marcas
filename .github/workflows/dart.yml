@@ -2,7 +2,8 @@ name: Dart
 
 on:
   push:
-    branches: [ 'feat/**' ]
+    branches: 
+    - 'feat/**'
   #pull_request:
     #branches: [ feat/** ]
 
