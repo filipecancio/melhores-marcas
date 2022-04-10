@@ -17,5 +17,8 @@ jobs:
       - name: Run tests
         run: npm install
 
+      - name: Run tests
+        run: npm run test
+
       - name: Build Android
         run: cd android && ./gradlew
