@@ -1,10 +1,10 @@
 name: Dart
 
 on:
-  #push:
-    #branches: [ main ]
-  pull_request:
-    branches: [ feat/** ]
+  push:
+    branches: [ feat/**  ]
+  #pull_request:
+    #branches: [ feat/** ]
 
 jobs:
   build:
