@@ -2,7 +2,7 @@ name: Dart
 
 on:
   push:
-    branches: [ 'feat/**' ]
+    branches: [ 'feat/flutter/**' ]
 
 jobs:
   build:
