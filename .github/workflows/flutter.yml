@@ -1,8 +1,8 @@
-name: Dart
+name: Flutter
 
 on:
   push:
-    branches: [ 'feat/flutter/**' ]
+    branches: [ 'feat/**' ]
 
 jobs:
   build:
