@@ -1,0 +1,34 @@
+name: React Native
+
+on:
+  push:
+    branches: [ 'feat/react/**' ]
+
+jobs:
+  install-and-test:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./mmreact
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: npm install
+
+  build-android:
+    needs: install-and-test
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./mmreact
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build Android
+        run: cd android && ./gradlew assembleRelease
