@@ -5,20 +5,7 @@ on:
     branches: [ 'feat/react/**' ]
 
 jobs:
-  install-and-test:
-    runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: ./mmreact
-
-    steps:
-      - uses: actions/checkout@v2
-
-      - name: Install dependencies
-        run: npm install
-
-  build-android:
-    needs: install-and-test
+  build:
     runs-on: ubuntu-latest
     defaults:
       run:
