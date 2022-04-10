@@ -4,8 +4,9 @@ on:
   push:
     branches: 
     - 'feat/**'
-  #pull_request:
-    #branches: [ feat/** ]
+  pull_request:
+    branches:
+    - 'feat/**'
 
 jobs:
   build:
