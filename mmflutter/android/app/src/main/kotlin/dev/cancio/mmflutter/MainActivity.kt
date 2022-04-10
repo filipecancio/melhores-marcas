@@ -1,4 +1,4 @@
-package dev.cancio.mm_flutter
+package dev.cancio.mmflutter
 
 import io.flutter.embedding.android.FlutterActivity
 
