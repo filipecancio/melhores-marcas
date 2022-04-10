@@ -2,8 +2,7 @@ name: Dart
 
 on:
   pull_request:
-    branches:    
-      ['feat/**']
+    branches: [ 'feat/**' ]
 
 jobs:
   build:
