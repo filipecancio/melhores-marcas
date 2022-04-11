@@ -19,8 +19,5 @@ jobs:
         with:
           java-version: 11
 
-      - name: Install dependencies
-        run: npm install
-
       - name: Run tests
         run: ./gradlew testStagingDebugUnitTest
