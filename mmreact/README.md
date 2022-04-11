@@ -5,3 +5,4 @@
 
 ## Como desenvolver o app
 - Aula 01: Novo app em React Native https://github.com/filipecancio/melhores-marcas/pull/20
+- Aula 02: Configurando Actions do Github para Testes Unitários em PR https://github.com/filipecancio/melhores-marcas/pull/22
