@@ -15,11 +15,12 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       backgroundColor: MMColors.ocean_4,
       body: Center(
-        child: Column(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: const [
-              Text("Melhores Marcas"),
-            ]),
+        child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
+          Text(
+            "Melhores Marcas",
+            style: TextStyle(fontSize: 30, color: MMColors.coal_1),
+          ),
+        ]),
       ),
     );
   }
