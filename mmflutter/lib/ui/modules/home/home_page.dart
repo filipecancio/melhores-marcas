@@ -17,7 +17,8 @@ class _HomePageState extends State<HomePage> {
         child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
           Text(
             "Melhores Marcas",
-            style: TextStyle(fontSize: 30, color: MMColors.coal_1),
+            style: TextStyle(
+                fontSize: 30, color: MMColors.coal_1, fontFamily: 'Abel'),
           ),
         ]),
       ),
