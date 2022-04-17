@@ -5,3 +5,5 @@
 ## Como desenvolver o app
 - Aula 01: Novo app em Flutter https://github.com/filipecancio/melhores-marcas/pull/14
 - Aula 02: Configurando Actions do Github para Testes Unitários em PR https://github.com/filipecancio/melhores-marcas/pull/21
+- Aula 03: Criando primeira página
+- Aula 04: Criando os componentes básicos
