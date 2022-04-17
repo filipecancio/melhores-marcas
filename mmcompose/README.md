@@ -4,3 +4,4 @@
 
 ## Como desenvolver o app
 - Aula 01: Novo app em Jetpack Compose https://github.com/filipecancio/melhores-marcas/pull/13
+- Aula 02: Configurando Actions do Github para Testes Unitários em PR https://github.com/filipecancio/melhores-marcas/pull/23
