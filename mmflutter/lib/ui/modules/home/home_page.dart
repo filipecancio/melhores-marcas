@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mmflutter/ds/colors.dart';
+import 'package:mmflutter/ds/typography.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -17,8 +18,7 @@ class _HomePageState extends State<HomePage> {
         child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
           Text(
             "Melhores Marcas",
-            style: TextStyle(
-                fontSize: 30, color: MMColors.coal_1, fontFamily: 'Abel'),
+            style: MMStyles.coal_1_title_1,
           ),
         ]),
       ),
