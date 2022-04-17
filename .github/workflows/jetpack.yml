@@ -1,0 +1,21 @@
+name: Jetpack Compose
+
+on:
+  push:
+    branches: [ 'feat/compose/**' ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./mmcompose
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run Wrapper
+        run: gradle wrapper
+
+      - name: Run tests
+        run: ./gradlew
