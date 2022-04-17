@@ -6,4 +6,11 @@
 - Aula 01: Novo app em Flutter https://github.com/filipecancio/melhores-marcas/pull/14
 - Aula 02: Configurando Actions do Github para Testes Unitários em PR https://github.com/filipecancio/melhores-marcas/pull/21
 - Aula 03: Criando primeira página
-- Aula 04: Criando os componentes básicos
+- Aula 04: Navegação por bottom bar e outras páginas
+- Aula 05: Criando outos componentes básicos
+- Aula 06: Criando camada de modelo
+- Aula 07: Criando tela Home
+- Aula 08: Criando tela Detalhes
+- Aula 09: Criando tela Favoritas
+- Aula 10: Criando tela Busca
+- Aula 11: Criando tela perfil
