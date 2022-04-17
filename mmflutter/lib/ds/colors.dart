@@ -23,31 +23,4 @@ class MMColors {
   static final ocean_4 = Color(0xFF1D8ACB);
   static final ocean_5 = Color(0xFF166594);
   static final ocean_6 = Color(0xFF0E3F5D);
-
-  static final MaterialColor coal = MaterialColor(coal_5.value, <int, Color>{
-    100: coal_1,
-    200: coal_2,
-    300: coal_3,
-    400: coal_4,
-    500: coal_5,
-    600: coal_6,
-  });
-
-  static final MaterialColor river = MaterialColor(river_5.value, <int, Color>{
-    100: river_1,
-    200: river_2,
-    300: river_3,
-    400: river_4,
-    500: river_5,
-    600: river_6,
-  });
-
-  static final MaterialColor ocean = MaterialColor(ocean_5.value, <int, Color>{
-    100: ocean_1,
-    200: ocean_2,
-    300: ocean_3,
-    400: ocean_4,
-    500: ocean_5,
-    600: ocean_6,
-  });
 }
